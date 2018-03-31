@@ -1,0 +1,9 @@
+.DS_Store
+composer.json
+/vendor
+/kirby
+/kirby/toolkit
+/panel
+/site/accounts
+/assets/avatars
+/thumbs/*
