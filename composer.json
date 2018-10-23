@@ -2,20 +2,20 @@
     "name": "s1syphos/kirby-development",
     "require": {
         "mnsami/composer-custom-directory-installer": "1.1.*",
-        "getkirby/kirby": "2.5.10",
-        "getkirby/toolkit": "2.5.10",
-        "getkirby/panel": "2.5.10"
+        "getkirby/kirby": "2.5.12",
+        "getkirby/toolkit": "2.5.12",
+        "getkirby/panel": "2.5.12"
     },
     "repositories": [
         {
             "type": "package",
             "package": {
                 "name": "getkirby/kirby",
-                "version": "2.5.10",
+                "version": "2.5.12",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/getkirby/kirby.git",
-                    "reference": "2.5.10"
+                    "reference": "2.5.12"
                 }
             }
         },
@@ -23,11 +23,11 @@
             "type": "package",
             "package": {
                 "name": "getkirby/toolkit",
-                "version": "2.5.10",
+                "version": "2.5.12",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/getkirby/toolkit.git",
-                    "reference": "2.5.10"
+                    "reference": "2.5.12"
                 }
             }
         },
@@ -35,11 +35,11 @@
             "type": "package",
             "package": {
                 "name": "getkirby/panel",
-                "version": "2.5.10",
+                "version": "2.5.12",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/getkirby/panel.git",
-                    "reference": "2.5.10"
+                    "reference": "2.5.12"
                 }
             }
         }
